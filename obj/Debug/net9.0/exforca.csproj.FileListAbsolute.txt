@@ -1,0 +1,15 @@
+C:\Users\thiag\Github\ListasLp1\Lista2\exforca\obj\Debug\net9.0\exforca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\Github\ListasLp1\Lista2\exforca\obj\Debug\net9.0\exforca.AssemblyInfoInputs.cache
+C:\Users\thiag\Github\ListasLp1\Lista2\exforca\obj\Debug\net9.0\exforca.AssemblyInfo.cs
+C:\Users\thiag\Github\ListasLp1\Lista2\exforca\obj\Debug\net9.0\exforca.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Github\ListasLp1\Lista2\exforca\obj\Debug\net9.0\exforca.sourcelink.json
+C:\Users\thiag\Github\ListasLp1\Lista2\exforca\bin\Debug\net9.0\exforca.exe
+C:\Users\thiag\Github\ListasLp1\Lista2\exforca\bin\Debug\net9.0\exforca.deps.json
+C:\Users\thiag\Github\ListasLp1\Lista2\exforca\bin\Debug\net9.0\exforca.runtimeconfig.json
+C:\Users\thiag\Github\ListasLp1\Lista2\exforca\bin\Debug\net9.0\exforca.dll
+C:\Users\thiag\Github\ListasLp1\Lista2\exforca\bin\Debug\net9.0\exforca.pdb
+C:\Users\thiag\Github\ListasLp1\Lista2\exforca\obj\Debug\net9.0\exforca.dll
+C:\Users\thiag\Github\ListasLp1\Lista2\exforca\obj\Debug\net9.0\refint\exforca.dll
+C:\Users\thiag\Github\ListasLp1\Lista2\exforca\obj\Debug\net9.0\exforca.pdb
+C:\Users\thiag\Github\ListasLp1\Lista2\exforca\obj\Debug\net9.0\exforca.genruntimeconfig.cache
+C:\Users\thiag\Github\ListasLp1\Lista2\exforca\obj\Debug\net9.0\ref\exforca.dll
