@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\thiag\\Github\\ListasLp1\\Lista2\\exforca\\exforca.csproj": {}
+    "C:\\Users\\thiag\\Github\\ListasLp1\\Lista2\\exForca\\exforca.csproj": {}
   },
   "projects": {
-    "C:\\Users\\thiag\\Github\\ListasLp1\\Lista2\\exforca\\exforca.csproj": {
+    "C:\\Users\\thiag\\Github\\ListasLp1\\Lista2\\exForca\\exforca.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\thiag\\Github\\ListasLp1\\Lista2\\exforca\\exforca.csproj",
+        "projectUniqueName": "C:\\Users\\thiag\\Github\\ListasLp1\\Lista2\\exForca\\exforca.csproj",
         "projectName": "exforca",
-        "projectPath": "C:\\Users\\thiag\\Github\\ListasLp1\\Lista2\\exforca\\exforca.csproj",
+        "projectPath": "C:\\Users\\thiag\\Github\\ListasLp1\\Lista2\\exForca\\exforca.csproj",
         "packagesPath": "C:\\Users\\thiag\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\thiag\\Github\\ListasLp1\\Lista2\\exforca\\obj\\",
+        "outputPath": "C:\\Users\\thiag\\Github\\ListasLp1\\Lista2\\exForca\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\thiag\\AppData\\Roaming\\NuGet\\NuGet.Config"

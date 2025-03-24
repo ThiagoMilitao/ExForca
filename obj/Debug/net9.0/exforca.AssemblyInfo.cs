@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("exforca")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b6ac210f6557cdbe8ac33a34b5283c82e65e2b20")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d0f84de68b2d9b8e4fe7f8f0d2074ecb45206108")]
 [assembly: System.Reflection.AssemblyProductAttribute("exforca")]
 [assembly: System.Reflection.AssemblyTitleAttribute("exforca")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
